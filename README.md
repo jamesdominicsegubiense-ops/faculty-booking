@@ -22,9 +22,3 @@ A web-based consultation booking platform for universities, built with native PH
 4. Copy `config/db.example.php` → `config/db.php` and fill credentials
 5. Visit `http://localhost/faculty-booking/`
 
-## Demo Accounts (password: `password123`)
-| Role | Email |
-|------|-------|
-| Admin | admin@university.edu |
-| Faculty | elena.marquez@university.edu |
-| Student | mark.villanueva@student.edu |
