@@ -67,7 +67,7 @@ foreach ($schedulesByFaculty as $slots) {
     $totalSlots += count($slots);
 }
 
-$pageTitle = 'Find a Faculty Consultant';
+$pageTitle = 'Home';
 require __DIR__ . '/includes/header.php';
 
 $user      = current_user();

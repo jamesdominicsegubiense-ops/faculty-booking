@@ -16,7 +16,7 @@ $__user = current_user();
     <div class="container header-inner">
         <a class="brand" href="index.php">
             <span class="brand-mark">FC</span>
-            <span class="brand-text">Faculty&nbsp;Consult</span>
+            <span class="brand-text">Faculink</span>
         </a>
 
         <nav class="main-nav">

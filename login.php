@@ -59,9 +59,10 @@ require __DIR__ . '/includes/header.php';
 
     <aside class="auth-brand">
         <div class="auth-brand-body">
-            <h2 class="auth-brand-title">Welcome back to your academic hub.</h2>
+            <h2 class="auth-brand-title">Faculink</h2>
             <p class="auth-brand-sub">
-                Book consultations, manage schedules, and stay in sync with your professors — all in one place.
+                Faculty Consultation Booking System
+                <span class="auth-brand-tagline">"Making Academic Consultations Easier."</span>
             </p>
 
             <ul class="auth-features">
@@ -125,7 +126,7 @@ require __DIR__ . '/includes/header.php';
 
             <p class="auth-foot">
                 Don't have an account?
-                <a href="register.php" class="auth-link">Create an account →</a>
+                <a href="register.php" class="auth-link">Create an account</a>
             </p>
         </div>
     </section>

@@ -68,7 +68,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     }
 }
 
-$pageTitle = 'Create a Student Account';
+$pageTitle = 'Create an Account';
 require __DIR__ . '/includes/header.php';
 ?>
 
@@ -76,9 +76,10 @@ require __DIR__ . '/includes/header.php';
 
     <aside class="auth-brand">
         <div class="auth-brand-body">
-            <h2 class="auth-brand-title">Start booking consultations in seconds.</h2>
+            <h2 class="auth-brand-title">Faculink</h2>
             <p class="auth-brand-sub">
-                Create your free student account and get instant access to every faculty member on campus.
+                Faculty Consultation Booking System
+                <span class="auth-brand-tagline">"Making Academic Consultations Easier."</span>
             </p>
 
             <ul class="auth-features">
@@ -176,7 +177,7 @@ require __DIR__ . '/includes/header.php';
 
             <p class="auth-foot">
                 Already have an account?
-                <a href="login.php" class="auth-link">Sign in →</a>
+                <a href="login.php" class="auth-link">Sign in</a>
             </p>
 
             <div class="demo-box demo-box-note">

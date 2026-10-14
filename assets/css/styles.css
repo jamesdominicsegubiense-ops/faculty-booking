@@ -2211,3 +2211,47 @@ textarea { resize: vertical; min-height: 84px; }
 .password-toggle .eye-closed { display: none; }
 .password-toggle.is-visible .eye-open  { display: none; }
 .password-toggle.is-visible .eye-closed { display: block; }
+
+/* =====================================================================
+   LOGIN/REGISTER — LARGER BRAND TEXT
+   ===================================================================== */
+
+/* "Faculink" headline */
+.auth-brand-title {
+    font-size: clamp(4.4rem, 4vw, 3.4rem) !important;
+    line-height: 1.1 !important;
+    margin-bottom: 1.25rem !important;
+    letter-spacing: -.025em !important;
+}
+
+/* "Faculty Consultation Booking System…" subtitle */
+.auth-brand-sub {
+    font-size: 1.25rem !important;
+    line-height: 1.55 !important;
+    color: rgba(255, 255, 255, .9) !important;
+    margin-bottom: 2.25rem !important;
+    max-width: 42ch;
+}
+
+.auth-brand-tagline {
+    display: block;
+    margin-top: .5rem;
+    color: var(--accent);
+    font-weight: 600;
+    font-size: 1.1rem;
+    letter-spacing: .02em;
+}
+
+/* =====================================================================
+   AUTH — Give the brand text more breathing room from the left edge
+   ===================================================================== */
+
+.auth-brand {
+    padding-left: 9rem !important;   /* was 3.5rem — pushes text right */
+}
+
+@media (max-width: 900px) {
+    .auth-brand {
+        padding-left: 1.5rem !important;   /* resets on mobile */
+    }
+}
