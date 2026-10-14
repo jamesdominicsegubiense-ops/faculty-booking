@@ -21,8 +21,7 @@
 
 | Stakeholder | Interest |
 |-------------|----------|
-| **University administration** | Wants to increase faculty-student engagement and track consultation metrics. |
-| **IT Department** | Ensures system security, uptime, and integration with university email/LDAP (future). |
+| **Departments** | Ensures system security, uptime, and integration with university email/LDAP (future). |
 | **Students** | Need quick, reliable access to faculty consultation slots. |
 | **Faculty** | Need control over their schedule without administrative overhead. |
 
