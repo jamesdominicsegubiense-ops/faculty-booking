@@ -8,8 +8,8 @@ A web-based consultation booking platform for universities that makes it easy fo
 
 | Name | Role | GitHub |
 |------|------|--------|
-| [James Dominic Segubiense] | Lead Developer — Backend, Database, Auth | [@jamesdominicsegubiense-ops](https://github.com/jamesdominicsegubiense-ops) |
-| [Member 2 Full Name] | Frontend Developer — UI/UX, CSS, JS | [@member2username](https://github.com/member2username) |
+| [James Dominic Segubiense] | Lead Developer — Frontend, Backend, Database, Auth | [@jamesdominicsegubiense-ops](https://github.com/jamesdominicsegubiense-ops) |
+| [Member 2 Full Name] | Design — UI/UX, CSS, JS | [@member2username](https://github.com/member2username) |
 | [Member 3 Full Name] | QA / Documentation — Testing, Reports | [@member3username](https://github.com/member3username) |
 
 ---
