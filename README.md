@@ -74,8 +74,11 @@ The system emphasizes **security** (PDO prepared statements, CSRF protection, ha
 - Git installed
 - A web browser
 
-### Steps
+## 🤖 AI Assistance Disclosure
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/jamesdominicsegubiense-ops/faculty-booking.git
+AI tools were used as a learning aid for:
+- Boilerplate security patterns (PDO, CSRF, bcrypt)
+- Debugging PHP errors
+- Structuring this README
+
+All code was understood, adapted, and tested by the team.
